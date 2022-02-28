@@ -1,0 +1,14 @@
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid rgba(200, 80, 0, 0.6);
+    background: rgba(7, 200, 0, 0.3);
+    color: rgba(200, 0, 183, 0.6);
+    box-shadow: 2px 2px 4px rgba(200, 197, 0, 0.4);
+    border-radius: 15px;
+    padding: 3px 10px;
+    display: inline-block;
+    cursor: pointer;
+}
